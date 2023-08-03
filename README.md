@@ -15,8 +15,3 @@ The rules are simple and quite straightforward:
 ## 🚀 How to Run
 
 Before running the game, make sure you have Python installed on your machine. You also need to have the Tkinter library, which comes pre-installed with standard Python distributions. 
-
-To get started, run the Python script in your terminal:
-
-```bash
-python tic_tac_toe.py
